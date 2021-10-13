@@ -1,0 +1,45 @@
+.container {
+  display: flex;
+  padding: 50px 80px;
+}
+
+h3 {
+  color: #a59678;
+  font-size: 2.3rem;
+  font-weight: bold;
+  font-family: "Oswald", sans-serif;
+  margin-bottom: 10px;
+}
+.para-1 {
+  font-family: "Montserrat", sans-serif;
+  text-align: justify;
+  max-width: 80%;
+  line-height: 1.6;
+  margin-bottom: 8px;
+  font-weight: 400;
+}
+
+.para-2 {
+  font-family: "Montserrat", sans-serif;
+  text-align: justify;
+  max-width: 80%;
+  line-height: 1.6;
+  margin-top: 8px;
+}
+.blocks {
+  background-color: #3b4050;
+  color: white;
+  margin-bottom: 20px;
+  padding: 35.2px 40px;
+  font-family: "Montserrat", sans-serif;
+  line-height: 1.6;
+  text-align: center;
+}
+h4 {
+  font-family: "Oswald", sans-serif;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  margin-bottom: 10px;
+  font-size: 1.3rem;
+}
